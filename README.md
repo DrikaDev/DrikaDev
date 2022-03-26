@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DrikaDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou a @DrikaDev
+- 👀 Sou nova no GitHub, ainda estou aprendendo a por meus repositórios aqui!
+- 🌱 Gosto de estudar programação (HTML, CSS e JavaScript), gosto de fazer crochê fio de malha, gosto de cuidar da minha casa, gosto de me exercitar e sou muito caseira.
+- 💞️ Estou procurando me aperfeiçoar no HTML, CSS e JavaScript para conseguir um trabalho como Desenvolvedora de Front-End.
+- 📫 Você pode me entrar em contato comigo através do meu email adriguti.adriana@hotmail.com ou pelo what´s app (11) 9 7037-1923.
 
 <!---
 DrikaDev/DrikaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
