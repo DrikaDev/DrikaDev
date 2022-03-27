@@ -6,6 +6,19 @@
 
 ![BusinessCatWorkingGIF](https://user-images.githubusercontent.com/102387476/160282994-b9845b01-8ad0-4354-b645-f519a22e2e3b.gif)
 
+<div class="caixa-links">
+  <a class="links" href="https://www.linkedin.com/in/drikadev/" target="blank">
+    <img class="icone" src="./IMG/in.png" alt="Linkedin">
+    <p>LinkedIn</p>
+    <p>Adriana Gutierrez</p>
+  </a>
+
+  <a class="links" href="https://www.facebook.com/adriana.gutierrez.35380" target="blank">
+    <img class="icone" src="./IMG/facebook.png" alt="Facebook">
+    <p>Facebook</p>
+    <p>Adriana Gutierrez</p>
+  </a>
+</div>
 
 <!---
 DrikaDev/DrikaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
