@@ -4,24 +4,17 @@
 - 💞️ Estou procurando me aperfeiçoar no HTML, CSS e JavaScript para conseguir um trabalho como Desenvolvedora de Front-End.
 - 📫 Você pode me entrar em contato comigo através do meu email adriguti.adriana@hotmail.com ou pelo what´s app (11) 9 7037-1923.
 
-![BusinessCatWorkingGIF](https://user-images.githubusercontent.com/102387476/160282994-b9845b01-8ad0-4354-b645-f519a22e2e3b.gif)
-
-<div class="caixa-links">
-  <a class="links" href="https://www.linkedin.com/in/drikadev/" target="blank">
-    <img class="icone" src="./IMG/in.png" alt="Linkedin">
-    <p>LinkedIn</p>
-    <p>Adriana Gutierrez</p>
-  </a>
-
-  <a class="links" href="https://www.facebook.com/adriana.gutierrez.35380" target="blank">
-    <img class="icone" src="./IMG/facebook.png" alt="Facebook">
-    <p>Facebook</p>
-    <p>Adriana Gutierrez</p>
-  </a>
+##
+<div>
+  <a href="https://github.com/drikadev">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=drikadev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drikadev&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-
-<!---
-DrikaDev/DrikaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+##
+  
