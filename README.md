@@ -2,7 +2,7 @@
 - 👀 Sou nova no GitHub, ainda estou aprendendo a por meus repositórios aqui e aprendendo como tudo funciona!
 - 🌱 Gosto de estudar programação (HTML, CSS e JavaScript), gosto de fazer crochê fio de malha, gosto de cuidar da minha casa, gosto de me exercitar e sou muito caseira.
 - 💞️ Estou muito empolgada para aprender tudo o que posso! Estou procurando me aperfeiçoar no HTML, CSS e JavaScript para conseguir um trabalho como Desenvolvedora de Front-End.
-- 📫 Você pode me entrar em contato comigo através do meu email adriguti.adriana@hotmail.com ou pelo what´s app (11) 9 7037-1923.
+- 📫 Você pode entrar em contato comigo através do meu email adriguti.adriana@hotmail.com ou pelo what´s app (11) 9 7037-1923.
 
 ##
 
