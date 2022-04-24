@@ -1,8 +1,9 @@
-- 👋 Olá, eu sou Adriana Gutierrez! 
+- 👋 Olá, eu sou Adriana Gutierrez, mas pode me chamar de DrikaDev 😍
 - 👀 Sou nova no GitHub, ainda estou aprendendo a por meus repositórios aqui e aprendendo como tudo funciona!
-- 🌱 Gosto de estudar programação (HTML, CSS e JavaScript), gosto de fazer crochê fio de malha, gosto de cuidar da minha casa, gosto de me exercitar e sou muito caseira.
-- 💞️ Estou muito empolgada para aprender tudo o que posso! Estou procurando me aperfeiçoar no HTML, CSS e JavaScript para conseguir um trabalho como Desenvolvedora de Front-End.
+- 🌱 Estou adorando estudar programação (HTML, CSS e JavaScript). No meu tempo livre, quando não estou fazendo desafios, gosto de fazer crochê fio de malha, de cuidar da minha casa, de montar quebra-cabeça e claro, gosto de fazer academia também.
+- 💞️ Estou muito empolgada para aprender tudo o que posso! Estou procurando me aperfeiçoar no HTML, CSS e JavaScript para conseguir um trabalho como Desenvolvedora de Front-End asap!
 - 📫 Você pode entrar em contato comigo através do meu email adriguti.adriana@hotmail.com ou pelo what´s app (11) 9 7037-1923.
+- 😊 Será um grande prazer falar contigo!
 
 ##
 
