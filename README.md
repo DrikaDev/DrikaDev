@@ -1,4 +1,4 @@
-<h1><✨Olá Mundo!></h1><br>
+<h1><😊Olá Mundo!></h1><br>
 👋 Olá, eu sou Adriana Gutierrez, mas vou adorar se você me chamar de DrikaDev 😍<br>
 👀 Sou nova no GitHub e nesse mundo da programção, ainda estou aprendendo um monte de coisas novas e estou amando muito tudo isso!<br>
 🌱 Estou adorando estudar programação (HTML, CSS e JavaScript).<br>
