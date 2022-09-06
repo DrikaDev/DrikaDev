@@ -2,7 +2,7 @@
 
 - I've started my studies with programming this year and I´m loving it! 😍
 - I want to be a Front-End Developer or a Full Stack! 😊✨💻❤️
-- I already know HTML and CSS and I’m currently learning JavaScript, Node.Js and React. 
+- I already know HTML and CSS and I’m currently learning JavaScript, Node.Js and React. 🌱🪴
 - I have one background in Human Resources and another one in Secretarial, and a postgraduate degree in Translation English/Portuguese. 
 
 ##
