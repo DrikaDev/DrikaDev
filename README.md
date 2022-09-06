@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Adriana.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-💻 I've started my studies with programming this year and I´m loving it!
-🚀 I want to be a Front-End Developer or a Full Stack!
-🌱 I already know HTML and CSS and I’m currently learning JavaScript, Node.Js and React.
+💻 I've started my studies with programming this year and I´m loving it!\
+🚀 I want to be a Front-End Developer or a Full Stack!\
+🌱 I already know HTML and CSS and I’m currently learning JavaScript, Node.Js and React.\
 ✨ I have one background in Human Resources and another one in Secretarial, and a postgraduate degree in Translation English/Portuguese. 
 
 ##
