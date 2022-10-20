@@ -39,3 +39,5 @@
 ![Snake animation](https://github.com/DrikaDev/DrikaDev/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=DrikaDev)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
