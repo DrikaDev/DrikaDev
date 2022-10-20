@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Adriana+Gutierrez.;Front+End+Developer;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Adriana+Gutierrez.;I´m+a+Front-End+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 💻 I've started my studies with programming this year and I´m loving it!\
 🚀 I want to be a Front-End Developer or a Full Stack!\
