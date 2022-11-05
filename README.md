@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Adriana+Gutierrez.;I´m+a+Front-End+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-💻 I've started my studies with programming this year and I´m loving it!\
+💻 I've started my studies with programming in January 2022 and I´m loving it!\
 🚀 I want to be a Front-End Developer or a Full Stack!\
 🌱 I have solid knowledge with HTML and CSS and I’m currently learning JavaScript, Node.Js and React.\
 ✨ I have one background in Human Resources and another one in Secretarial, and a postgraduate degree in Translation English/Portuguese. 
@@ -15,7 +15,7 @@
 </div>
 
 ##
-### Technologies I'm learning:
+### Technologies I've learned so far:
 
 <div align="center">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
