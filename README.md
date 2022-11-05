@@ -23,7 +23,7 @@
   <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" alt="JS" height="50" width="60" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="React" height="50" width="60" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
   <br><br>
-  <h20>(Click on the icons)</h20>
+  <h20>(Click on the icons to know more about them.)</h20>
 </div>
 
 ##
