@@ -3,7 +3,7 @@
 💻 I've started my studies with programming in January 2022 and I´m loving it!\
 🚀 I want to be a Front-End Developer or a Full Stack!\
 🌱 I have solid knowledge with HTML and CSS and I’m currently learning JavaScript, Node.Js and React.\
-✨ I have one background in Human Resources and another one in Secretarial, and a postgraduate degree in Translation English/Portuguese. 
+✨ I have one degree in Human Resources, one in Secretarial, a postgraduate degree in Translation English/Portuguese and I´m going to start a degree in Systems Analysis and Development at Anhanguera!
 
 ##
 ### You can also find me here:
