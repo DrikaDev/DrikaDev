@@ -35,7 +35,7 @@
 </div>
 
 ##
-### My snake eating my contributions this year:
+### My snake starving for my contributions 🐍
 
 ![Snake animation](https://github.com/DrikaDev/DrikaDev/blob/output/github-contribution-grid-snake.svg)
 
