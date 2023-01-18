@@ -3,9 +3,10 @@
 💻 I've started my studies with programming in January 2022 and I decided to start it with Front-End!\
 🚀 I want to be a Front-End Developer and maybe a Full Stack in the future!\
 🌱 I already have solid knowledge with HTML and CSS and I’m currently learning JavaScript and React.\
-✨ I have one degree in Human Resources, one in Secretarial, a postgraduate degree in Translation English/Portuguese and I´m going to start a degree in Systems Analysis and Development at Anhanguera in February this year 2023!
-😄 Here you´ll find my challenges I´d done when I was studying Front-End at Vai Na Web plus repositories due to my studies to learn/train JavaScript.
-🤩 Fell free to take a look, and please, don´t forget to give me a Star if you like it! ⭐
+✨ I have one degree in Human Resources, one in Secretarial, a postgraduate degree in Translation English/Portuguese and I´m going to start a degree in Systems Analysis and Development at Anhanguera in February this year 2023!\
+😄 Here you´ll find my challenges I´d done when I was studying Front-End at Vai Na Web plus repositories due to my studies to learn/train JavaScript.\
+🤩 Fell free to take a look, and please, don´t forget to give me a Star if you like it! ⭐\
+😊 Thank you very much!
 
 ##
 ### You can also find me here:
