@@ -29,7 +29,7 @@
   <a href="https://www.w3schools.com/angular/" target="_blank"><img align="center" alt="Angular" height="50" width="60" title="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></a>
   <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
   <br><br>
-  <h2>(Click on the icons to know more about them.)</h2>
+  <h2>Click on the icons ☝🏻 to know more about them.</h2>
 </div>
 
 ##
