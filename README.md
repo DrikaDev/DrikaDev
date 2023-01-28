@@ -41,9 +41,9 @@
 </div>
 
 ##
-### My snake starving for my contributions 🐍
+<!-- ### My snake starving for my contributions 🐍
 
-![Snake animation](https://github.com/DrikaDev/DrikaDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DrikaDev/DrikaDev/blob/output/github-contribution-grid-snake.svg) -->
 
 ![](https://komarev.com/ghpvc/?username=DrikaDev)
 
