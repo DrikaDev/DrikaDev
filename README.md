@@ -8,7 +8,7 @@
 👉🏼 Fell free to take a look, and please, don´t forget to give me a Star if you like it! ⭐\
 😊 Thank you very much!
 
-<img align="center" width= 30% src="https://user-images.githubusercontent.com/102387476/229122592-c3123b70-8b85-4d5f-baaa-a0e00328f752.png">
+<!-- <img align="center" width= 30% src="https://user-images.githubusercontent.com/102387476/229122592-c3123b70-8b85-4d5f-baaa-a0e00328f752.png"> -->
 
 ##
 ### You can also find me here:
