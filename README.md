@@ -24,6 +24,9 @@
 </div>
 
 ##
+
+![menina no computador 2](https://github.com/DrikaDev/DrikaDev/assets/102387476/a2b82998-0fe7-4b91-a4e0-8fc4d8c8c15a)
+
 ### Technologies I've learned so far:
 
 <div align="center">
