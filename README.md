@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Adriana+Gutierrez!;But+you+can+call+me+Drika!;I´m+a+Front-End+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 💻 I've started my studies with programming in January 2022 and I decided to start it with Front-End!\
-🚀 I want to be a Front-End Developer and Full Stack in the future! 🙏🏼\
+🚀 I want to be a Front-End or a Full Stack Developer! 🙏🏼\
 🌱 I already have solid knowledge with HTML, CSS and React and I’m currently learning JavaScript and Java ☕\
 ✨ I have one degree in Human Resources, one in Secretarial, a postgraduate degree in Translation English/Portuguese and I´ve started a degree in Systems Analysis and Development at Anhanguera!\
 😄 Here you´ll find my challenges I´d done when I was studying Front-End plus repositories due to my studies to learn/train JavaScript.
 
 👉🏼 Fell free to take a look, and please, don´t forget to give me a Star! ⭐\
-😊 Thank you very much!
+😊 Thank you very much for you visit to my page!
 
 <div align="center">
   <img width= 30% src="https://user-images.githubusercontent.com/102387476/229122592-c3123b70-8b85-4d5f-baaa-a0e00328f752.png">
