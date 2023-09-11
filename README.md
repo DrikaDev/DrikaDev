@@ -6,8 +6,7 @@
 ✨ I have one degree in Human Resources, one in Secretarial, a postgraduate degree in Translation English/Portuguese and I´ve started a degree in Systems Analysis and Development at Anhanguera!\
 😄 Here you´ll find my challenges I´d done when I was studying Front-End plus repositories due to my studies to learn/train JavaScript.
 
-👉🏼 Fell free to take a look, and please, don´t forget to give me a Star! ⭐\
-😊 Thank you very much for you visit to my page!
+👉🏼 Fell free to take a look, and please, don´t forget to give me a Star! ⭐
 
 ##
 <div align="center">
@@ -35,7 +34,7 @@
   <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
   <a href="https://www.w3schools.com/java/" target="_blank"><img align="center" alt="Java" height="50" width="60" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
   <br><br>
-  <h2>Click on the icons ☝🏻 to know more about them.</h2>
+  <p>Click on the icons ☝🏻 to know more about them.</p>
 </div>
 
 ### My GitHub Stats:
@@ -47,3 +46,4 @@
 
 ##
 ![](https://komarev.com/ghpvc/?username=DrikaDev)
+😊 Thank you very much for you visit to my page!
