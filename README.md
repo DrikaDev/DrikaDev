@@ -46,4 +46,4 @@
 
 ##
 ![](https://komarev.com/ghpvc/?username=DrikaDev)
-😊 Thank you very much for you visit to my page!
+😊 Thank you very much to visit my page!
