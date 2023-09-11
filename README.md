@@ -10,7 +10,7 @@
 😊 Thank you very much for you visit to my page!
 
 <div align="center">
-  <img width= 30% src="https://user-images.githubusercontent.com/102387476/229122592-c3123b70-8b85-4d5f-baaa-a0e00328f752.png">
+  <img width= 20% src="https://user-images.githubusercontent.com/102387476/229122592-c3123b70-8b85-4d5f-baaa-a0e00328f752.png">
   <h2>Click here to make your own <a href="https://myoctocat.com/build-your-octocat/" target="_blank">Octocat</a></h2>
 </div>
 
@@ -24,8 +24,6 @@
 </div>
 
 ##
-
-![menina no computador 2](https://github.com/DrikaDev/DrikaDev/assets/102387476/a2b82998-0fe7-4b91-a4e0-8fc4d8c8c15a)
 
 ### Technologies I've learned so far:
 
