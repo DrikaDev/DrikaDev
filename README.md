@@ -9,12 +9,12 @@
 👉🏼 Fell free to take a look, and please, don´t forget to give me a Star! ⭐\
 😊 Thank you very much for you visit to my page!
 
+##
 <div align="center">
   <img width= 20% src="https://user-images.githubusercontent.com/102387476/229122592-c3123b70-8b85-4d5f-baaa-a0e00328f752.png">
   <h2>Click here to make your own <a href="https://myoctocat.com/build-your-octocat/" target="_blank">Octocat</a></h2>
 </div>
 
-##
 ### You can also find me here:
 <div align="center">  
   <a href ="https://www.linkedin.com/in/drikadev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -24,9 +24,7 @@
 </div>
 
 ##
-
 ### Technologies I've learned so far:
-
 <div align="center">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
@@ -40,7 +38,6 @@
   <h2>Click on the icons ☝🏻 to know more about them.</h2>
 </div>
 
-##
 ### My GitHub Stats:
 <div align="center">
 <a href="https://github.com/DrikaDev"><img width ="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=drikadev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Stats"/></a>
@@ -49,10 +46,4 @@
 </div>
 
 ##
-### My snake starving for my contributions 🐍
-
-![Snake animation](https://github.com/DrikaDev/DrikaDev/blob/output/github-contribution-grid-snake.svg)
-
 ![](https://komarev.com/ghpvc/?username=DrikaDev)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
