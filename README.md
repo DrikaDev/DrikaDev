@@ -9,7 +9,7 @@
 
 ##
 <div align="center">
-  <img width= 30% src="https://github.com/DrikaDev/DrikaDev/assets/102387476/f73a6a6e-3251-47da-9184-6ed22819aa05">
+  <img width= 30% src="https://github.com/DrikaDev/DrikaDev/assets/102387476/353a7dc8-ae8a-41c9-84a5-9524fe644f40">
 
   <h5>Click 👉🏻 <a href="https://myoctocat.com/build-your-octocat/" target="_blank">here</a> 👈🏻 to make your own Octocat!</h5>
 </div>
