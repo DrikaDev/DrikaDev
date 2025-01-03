@@ -6,6 +6,7 @@
 👩🏻‍💻 I'm studying Systems Analysis and Development at Anhanguera.\
 🍀 I got my first opportunity as a Junior Front-end Developer in October/2023!\
 💖 And I'm very happy with my career migration!
+👉🏻 Check it out: https://portfolio-drikadev.netlify.app/
 
 ##
 <div align="center">
