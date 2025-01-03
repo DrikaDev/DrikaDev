@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Adriana+Gutierrez!;But+you+can+call+me+Drika!;I´m+a+Front-End+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá+Mundo!+Sou+Adriana+Gutierrez!;Seja+muito+bem+vinde+ao+meu+GitHub!;)](https://git.io/typing-svg)
 
-👉🏻 I'm part of the 40+ team.\
-💻 I started my studies with programming in January/2022.\
-🌱 I did a Front-end bootcamp and a Full Stack Java Jr bootcamp.\
-👩🏻‍💻 I'm studying Systems Analysis and Development at Anhanguera.\
-🍀 I got my first opportunity as a Junior Front-end Developer in October/2023!\
-💖 And I'm very happy with my career migration!\
-👉🏻 Check it out: https://portfolio-drikadev.netlify.app/
+😍 Olha que legal, eu faço parte do time dos 40+!\
+💻 Iniciei minha transição de carreira para tecnologia em Janeiro/2022.\
+🌱 Já fiz 2 bootcamps, um de Front-end e um de Full Stack Java Jr.\
+👩🏻‍💻 Atualmente estou no quarto semestre de ADS pela Anhanguera.\
+🍀 Já tive uma oportunidade como Front-end Jr durante 9 meses.
+
+👉🏻 Link do meu portfólio: https://portfolio-drikadev.netlify.app/
 
 ##
 <div align="center">
