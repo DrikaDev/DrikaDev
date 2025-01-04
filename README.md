@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá+Mundo!+Sou+Adriana+Gutierrez!;Seja+muito+bem+vinde+ao+meu+GitHub!;)](https://git.io/typing-svg)
 
-😍 Olha que legal, eu faço parte do time dos 40+!\
-💻 Iniciei minha transição de carreira para tecnologia em Janeiro/2022.\
-🌱 Já fiz 2 bootcamps, um de Front-end e um de Full Stack Java Jr.\
-👩🏻‍💻 Atualmente estou no quarto semestre de ADS pela Anhanguera.\
-🍀 Já tive uma oportunidade como Front-end Jr durante 9 meses.
+# Curiosidades sobre mim:
+
+💻 Iniciei minha transição de carreira para tecnologia em Janeiro/2022 aos 43 anos!  
+🌱 Já fiz 2 bootcamps, um de Front-end e um de Full Stack Java Jr.  
+👩🏻‍💻 Atualmente estou no quarto semestre de ADS pela Anhanguera.  
+🍀 Já tive uma oportunidade como Front-end Jr durante 9 meses.  
+🙁 E, já quis desistir dos estudos com programação inúmeras vezes, mas... continuo aqui, firme e forte! 💪🏻
 
 👉🏻 Link do meu portfólio: https://portfolio-drikadev.netlify.app/
 
