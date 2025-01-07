@@ -3,7 +3,7 @@
 # Curiosidades sobre mim:
 
 💻 Iniciei minha transição de carreira para tecnologia em Janeiro/2022 aos 43 anos!  
-🌱 Já fiz 2 bootcamps, um de Front-end e um de Full Stack Java Jr.  
+🌱 Fiz um bootcamp de Front-end, um de Full Stack Java Jr e um de Design de UX/UI.  
 👩🏻‍💻 Atualmente estou no quarto semestre de ADS pela Anhanguera.  
 🍀 Já tive uma oportunidade como Front-end Jr durante 9 meses.  
 🙁 E, já quis desistir dos estudos com programação inúmeras vezes, mas... continuo aqui, firme e forte! 💪🏻
