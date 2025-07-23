@@ -2,13 +2,13 @@
 
 # Curiosidades sobre mim:
 
-💻 Iniciei minha transição de carreira para tecnologia em Janeiro/2022 aos 43 anos!  
-🌱 Fiz um bootcamp de Front-end, um de Full Stack Java Jr e um de Design de UX/UI.  
-👩🏻‍💻 Atualmente estou no quarto semestre de ADS pela Anhanguera.  
-🍀 Já tive uma oportunidade como Front-end Jr durante 9 meses.  
-🙁 E, já quis desistir dos estudos com programação inúmeras vezes, mas... continuo aqui, firme e forte! 💪🏻
+💻 Iniciei minha transição de carreira para tecnologia em Janeiro/2022 aos 43 anos com foco em desenvolvimento Front-end!
+🌱 Fiz vários cursos, entre eles três bootcamps: um de Front-end, um de Full Stack Java Jr e um de Design de UX/UI.
+👩🏻‍💻 Me formei em ADS pela Anhanguera em Junho/2025.
+🍀 Já tive uma oportunidade de 9 meses como Front-end Jr.
+☁️ Mas, descobri na Cloud um novo caminho com novas possibilidades!
 
-👉🏻 Link do meu portfólio: https://portfolio-drikadev.netlify.app/
+👉🏻 Link do meu portfólio de quando eu estudava front-end: https://portfolio-drikadev.netlify.app/
 
 ##
 <div align="center">
