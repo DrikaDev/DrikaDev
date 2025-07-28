@@ -1,28 +1,48 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá+Mundo!+Sou+Adriana+Gutierrez!;Seja+muito+bem+vinde+ao+meu+GitHub!;)](https://git.io/typing-svg)
 
-# Curiosidades sobre mim:
+## 👩‍💻 Sobre mim  
 
-💻 Iniciei minha transição de carreira para tecnologia em Janeiro/2022 aos 43 anos com foco em desenvolvimento Front-end!  
-🌱 Fiz vários cursos, entre eles três bootcamps: um de Front-end, um de Full Stack Java Jr e um de Design de UX/UI.  
-👩🏻‍💻 Me formei em ADS pela Anhanguera em Junho/2025.  
-🍀 Já trabalhei durante 9 meses como Front-end Jr.  
-☁️ Mas, descobri na Cloud oportunidades para novas possibilidades!  
+Olá! Eu sou a **Adriana Gutierrez**, profissional **40+** em transição de carreira para a área de **tecnologia** desde Janeiro de 2022.  
+Atualmente venho me dedicando a construir uma base sólida em **Cloud Computing e AWS**, rumo à certificação **AWS Certified Cloud Practitioner**.  
+
+Minha jornada inclui:  
+- 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (Anhanguera)  
+- 🚀 Participação em bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**  
+- 🛠️ Experiência prática de 9 meses como desenvolvedora de frontend com **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**  
+- ☁️ Estudos atuais focados em **AWS (IAM, EC2, S3, Lambda, RDS, VPC, segurança e boas práticas)**  
+
+Antes de migrar para tecnologia, acumulei mais de **20 anos de experiência administrativa**, com atuação em **atendimento ao cliente interno e externo, suporte executivo, gestão de processos, logística e facilities**.  
+Essa bagagem me trouxe **organização, resiliência, comunicação eficaz e empatia**, qualidades que levo para minha atuação em tecnologia.  
+
+Também tive uma experiência internacional nos **EUA (2008)** como **monitora de acampamentos infantis**, aprimorando meu **inglês** e fortalecendo competências interpessoais.  
+
+---
+
+### 🚀 Atualmente
+- Estudando para a certificação **AWS Cloud Practitioner**  
+- Documentando meus aprendizados de **Cloud Computing** neste repositório:   
+- Aberta a oportunidades para atuar como **Analista Cloud Jr** ou em áreas relacionadas a **Cloud**  
+
+---
+
+### 🔑 Habilidades
+
+**Tecnologia:**  
+AWS | Cloud Computing | HTML | CSS | JavaScript | React | Tailwind | Material UI | Git | Figma | UX/UI Design | Design Thinking | Metodologias Ágeis | Scrum  
+
+**Administrativas:**  
+Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suporte Executivo | Organização | Comunicação | Resolução de Problemas | Pacote Office | Inglês Avançado | Resiliência  
+
+---
 
 👉🏻 Link do meu portfólio de quando eu estudava front-end: https://portfolio-drikadev.netlify.app/
 
-##
-<div align="center">
-  <img width= 30% src="https://github.com/DrikaDev/DrikaDev/assets/102387476/353a7dc8-ae8a-41c9-84a5-9524fe644f40">
-
-  <h5>Click 👉🏻 <a href="https://myoctocat.com/build-your-octocat/" target="_blank">here</a> 👈🏻 to make your own Octocat!</h5>
-</div>
-
 ### You can also find me here:
 <div align="center">  
-  <a href ="https://www.linkedin.com/in/drikadev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="https://www.linkedin.com/in/adri-ana-gutierrez/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://www.instagram.com/drika_guti_guti"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:adriguti.adriana@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="https://wa.me/5511970371923"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href ="mailto:adri.ana.gutierrez@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="https://wa.me/5511947126618"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 ##
