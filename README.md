@@ -20,7 +20,7 @@ Também tive uma experiência internacional nos **EUA (2008)** como **monitora d
 
 ### 🚀 Atualmente
 - Estudando para a certificação **AWS Cloud Practitioner**  
-- Documentando meus aprendizados de **Cloud Computing** neste repositório 👉 [DrikaDev/AWS](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner)  
+- Documentando meus aprendizados de **Cloud Computing** neste repositório 👉 [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner)  
 - Aberta a oportunidades para atuar como **Analista Cloud Jr** ou em áreas relacionadas a **Cloud**  
 
 ---
