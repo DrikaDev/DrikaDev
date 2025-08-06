@@ -28,7 +28,7 @@ Também tive uma experiência internacional nos **EUA (2008)** como **monitora d
 ### 🔑 Habilidades
 
 **Tecnologia:**  
-AWS | Cloud Computing | HTML | CSS | JavaScript | React | Tailwind | Material UI | Git | Figma | UX/UI Design | Design Thinking | Metodologias Ágeis | Scrum  
+AWS | Cloud Computing | HTML | CSS | JavaScript | React | Tailwind | Material UI | Git | Figma | UX/UI Design | Metodologias Ágeis | Scrum  
 
 **Administrativas:**  
 Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suporte Executivo | Organização | Comunicação | Resolução de Problemas | Pacote Office | Inglês Avançado | Resiliência  
