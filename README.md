@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!+Sou+Adriana+Gutierrez!;Seja+bem+vindo(a)+ao+meu+GitHub!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23ffdab9&lines=Ol%C3%A1!+Sou+Adriana+Gutierrez!;Seja+bem-vindo(a)+ao+meu+GitHub!;)](https://git.io/typing-svg)
 
 ## 👩‍💻 Sobre mim  
 
