@@ -39,7 +39,7 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 
 ---
 
-### 🌐 You can also find me here:
+### 🌐 Você também me encontra aqui:
 <div align="center">  
   <a href ="https://www.linkedin.com/in/adri-ana-gutierrez/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://www.instagram.com/drika_guti_guti"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -49,7 +49,7 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 
 ---
 
-### 💻 Technologies I've learned so far:
+### 💻 Tecnologias que aprendi até agora:
 <div align="center">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
@@ -57,13 +57,16 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
   <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="React" height="50" width="60" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
   <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
   <a href="https://www.w3schools.com/java/" target="_blank"><img align="center" alt="Java" height="50" width="60" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
+  <a href="https://aws.amazon.com/" target="_blank">
+  <img align="center" alt="AWS" height="50" width="60" title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</a>
   <br><br>
-  <p>Click the icons ☝🏻 to learn more about each technology.</p>
+  <p>Clique nos ícones ☝🏻 para saber mais sobre cada tecnologia.</p>
 </div>
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 Minhas estatísticas do GitHub:
 <div align="center">
 
 <a href="https://github.com/DrikaDev"><img width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drikadev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -71,11 +74,5 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 
 ---
 
-### ☁️ Current Focus
-Studying for **AWS Certified Cloud Practitioner**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-
----
-
 ![](https://komarev.com/ghpvc/?username=DrikaDev)  
-😊 Thank you very much for visiting my page!
+😊 Muito obrigado por visitar minha página!
