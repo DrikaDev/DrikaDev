@@ -57,19 +57,9 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
   <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="React" height="50" width="60" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
   <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
   <a href="https://www.w3schools.com/java/" target="_blank"><img align="center" alt="Java" height="50" width="60" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
-  <a href="https://aws.amazon.com/" target="_blank">
-  <img align="center" alt="AWS" height="50" width="60" title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</a>
+  <a href="https://aws.amazon.com/" target="_blank"><img align="center" alt="AWS" height="50" width="60" title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
   <br><br>
   <p>Clique nos ícones ☝🏻 para saber mais sobre cada tecnologia.</p>
-</div>
-
----
-
-### 📊 Minhas estatísticas do GitHub:
-<div align="center">
-
-<a href="https://github.com/DrikaDev"><img width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drikadev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 ---
