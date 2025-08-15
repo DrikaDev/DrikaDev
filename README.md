@@ -49,7 +49,7 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 
 ---
 
-### 💻 Tecnologias que aprendi até agora:
+### 💻 Tecnologias que aprendi durante minha jornada:
 <div align="center">
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
