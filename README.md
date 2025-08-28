@@ -64,5 +64,14 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 
 ---
 
-![](https://komarev.com/ghpvc/?username=DrikaDev)  
-😊 Muito obrigado por visitar minha página!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DrikaDev" alt="Profile views"/>
+</p>
+
+<p align="center">
+  😊 Muito obrigado por visitar minha página!
+</p>
+
+<p align="center">
+  Desenvolvido com 🩷
+</p>
