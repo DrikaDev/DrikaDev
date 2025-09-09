@@ -5,7 +5,7 @@
 Olá! Eu sou a **Adriana Gutierrez**, profissional **40+** em transição de carreira para a área de **tecnologia** desde Janeiro de 2022.  
 Atualmente venho me dedicando a construir uma base sólida em **Cloud Computing e AWS**, rumo à certificação **AWS Certified Cloud Practitioner** 🚀☁️.  
 
-Minha jornada inclui:  
+Minha jornada na tecnologia inclui:  
 - 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (Anhanguera)  
 - 🚀 Participação em bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**  
 - 🛠️ Experiência prática de 9 meses como desenvolvedora de frontend com **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**  
