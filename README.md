@@ -9,7 +9,7 @@ Minha jornada na tecnologia inclui:
 - 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (Anhanguera)  
 - 🚀 Participação em bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**  
 - 🛠️ Experiência prática de 9 meses como desenvolvedora de frontend com **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**  
-- ☁️ Estudos atuais focados em **AWS (IAM, EC2, S3, Lambda, RDS, VPC, segurança e boas práticas)**  
+- ☁️ Estudos atuais focados em **AWS** para o exame da certificação em **AWS Cloud Practitioner**  
 
 Antes de migrar para tecnologia, acumulei mais de **20 anos de experiência administrativa**, com atuação em **atendimento ao cliente interno e externo, suporte executivo, gestão de processos, logística e facilities**.  
 Essa bagagem me trouxe **organização, resiliência, comunicação eficaz e empatia**, qualidades que levo para minha atuação em tecnologia.  
@@ -21,7 +21,7 @@ Também tive uma experiência internacional nos **EUA (2008)** como **monitora d
 ### 🚀 Atualmente
 - Estudando para a certificação **AWS Cloud Practitioner**  
 - Documentando meus aprendizados de **Cloud Computing** neste repositório 👉 [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md)  
-- E estou em busca de uma função de nível inicial no setor da nuvem AWS 🚀
+- E estou em busca de uma oportunidade de trabalho de nível inicial no setor da nuvem AWS 🚀
 
 ---
 
