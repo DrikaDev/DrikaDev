@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FF69B4&lines=Ol%C3%A1!+Sou+Adriana+Gutierrez!;Seja+bem-vindo(a)+ao+meu+GitHub!;)](https://git.io/typing-svg)
 
-## 👩‍💻 Sobre mim  
+## 👧🏻 Sobre mim  
 
 Olá! Eu sou a **Adriana Gutierrez**, profissional **40+** em transição de carreira para a área de **tecnologia** desde Janeiro de 2022.  
 Atualmente venho me dedicando a construir uma base sólida em **Cloud Computing e AWS**, rumo à certificação **AWS Certified Cloud Practitioner** 🚀☁️.  
