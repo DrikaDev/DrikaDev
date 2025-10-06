@@ -4,7 +4,7 @@
 
 Sou **Adriana Gutierrez**, profissional **40+** em transição para **tecnologia** desde Janeiro de 2022.  
 
-🎯 **Minha proposta de valor:** unir meus **20 anos de experiência administrativa** à tecnoloiga, trazendo **organização, comunicação eficaz, resiliência e visão prática de negócios**.  
+🎯 **Minha proposta de valor:** unir meus **20 anos de experiência administrativa** à tecnologia, trazendo **organização, comunicação eficaz, resiliência e visão prática de negócios**.  
 
 Minha jornada na tecnologia inclui:  
 
