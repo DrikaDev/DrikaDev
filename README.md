@@ -15,10 +15,10 @@ Minha jornada na tecnologia inclui:
 
 ## 🚀 Atualmente
 
-- Estudando para a certificação **AWS Cloud Practitioner**
-- Realizando labs práticos em **AWS** (EC2, VPC, S3, Network Firewall, etc.)  
-- Documentando o aprendizado em [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md)  
-- Buscando uma oportunidade de trabalho inicial em **Cloud/AWS** para aplicar e expandir meus conhecimentos. 🚀
+- ☁️ Estudando para a certificação **AWS Cloud Practitioner**
+- 🧪 Realizando labs práticos em **AWS** (EC2, VPC, S3, Network Firewall, etc.)  
+- 📄 Documentando o aprendizado em [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md)  
+- 👩🏻‍💻 Buscando uma oportunidade de trabalho inicial em **Cloud/AWS** para aplicar e expandir meus conhecimentos. 🚀
 
 ## 🔑 Habilidades
 
