@@ -3,7 +3,6 @@
 ## 👧🏻 Sobre mim  
 
 Sou **Adriana Gutierrez**, profissional **40+** em transição para **tecnologia** desde Janeiro de 2022.  
-Atualmente, foco meus estudos na certificação **AWS Certified Cloud Practitioner** 🚀☁️.  
 
 🎯 **Minha proposta de valor:** unir minha experiência em frontend aos meus **20 anos na área administrativa**, trazendo **organização, comunicação eficaz, resiliência e visão prática de negócios** para tecnologia.  
 
