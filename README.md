@@ -53,9 +53,11 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 ---
 
 <p align="center">
-  💡Aberta a oportunidades em <strong>Cloud/AWS</strong> e entusiasmada para aplicar meus conhecimentos em projetos reais!<br>
+  💡Aberta a oportunidades em <strong>Cloud/AWS</strong> e entusiasmada para aplicar meus conhecimentos em projetos reais!
+</p>
+<p align="center">
   Desenvolvido com 🩷
-<br>
-<br>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DrikaDev" alt="Profile views"/>
 </p>
