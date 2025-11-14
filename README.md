@@ -15,9 +15,9 @@ Minha jornada na tecnologia inclui:
 
 ## 🚀 Atualmente
 
-- 🚀 Certificada em **AWS Cloud Practitioner**
-- 📄 Aprendizado documentado em [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md)  
-- ☁️ Estudando para a certificação **AWS Certified Solutions Architect - Associate**  
+- 🚀 Certificada em **AWS Cloud Practitioner**;  
+- 📄 Aprendizado documentado em [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md);  
+- ☁️ Estudando para a certificação **AWS Certified Solutions Architect - Associate**;  
 - 👩🏻‍💻 Buscando uma oportunidade de trabalho inicial em **Cloud/AWS** para aplicar e expandir meus conhecimentos. 🚀
 
 ## 🔑 Habilidades
