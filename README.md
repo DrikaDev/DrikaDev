@@ -8,10 +8,10 @@ Sou **Adriana Gutierrez**, profissional **40+** em transição para **tecnologia
 
 Minha jornada na tecnologia inclui:  
 
-- 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (Anhanguera)  
-- 🚀 Bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**  
-- 🛠️ 9 meses de experiência prática como desenvolvedora de frontend utilizando as tecnologias **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**  
-- 👉🏻 [Portfólio Frontend](https://portfolio-drikadev.netlify.app/), desenvolvido durante minha transição  
+- 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (Anhanguera);  
+- 🚀 Bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**;  
+- 🛠️ 9 meses de experiência prática como desenvolvedora de frontend utilizando as tecnologias **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**; 
+- 👉🏻 [Portfólio Frontend](https://portfolio-drikadev.netlify.app/), desenvolvido durante minha transição.  
 
 ## 🚀 Atualmente
 
