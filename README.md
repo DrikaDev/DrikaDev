@@ -46,6 +46,9 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 
 <div>  
   <a href="https://www.linkedin.com/in/adri-ana-gutierrez/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.credly.com/users/adriana-gutierrez.8cddb63a/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white">
+  </a>
   <a href="https://wa.me/5511947126618"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:adri.ana.gutierrez@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23007ACC?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
