@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Banner de LinkedIn Cabecera Empresa Tecnologia Corporativo Moderno (4)" src="https://github.com/user-attachments/assets/531d6429-27ba-4868-ac83-e80fe46d0313" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FF69B4&lines=Prazer,+sou+Adriana+Gutierrez.;Bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ## 👧🏻 Sobre mim  
