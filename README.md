@@ -11,14 +11,14 @@ Sou **Adriana Gutierrez**, profissional **40+** em transição para **tecnologia
 Minha jornada na tecnologia inclui:  
 
 - 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (Anhanguera);  
-- 🚀 Bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**;  
+- 🚀 Participação em bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**;  
 - 🛠️ 9 meses de experiência prática como desenvolvedora de frontend utilizando as tecnologias **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**; 
-- 👉🏻 [Portfólio Frontend](https://portfolio-drikadev.netlify.app/), desenvolvido durante minha transição.  
+- 👉🏻 [Portfólio Frontend](https://portfolio-drikadev.netlify.app/), desenvolvido durante minha transição.
+- 🎉 Certificação **AWS Cloud Practitioner**, emitida em Nov/2025   
 
 ## 🚀 Atualmente
 
-- 🚀 Certificada em **AWS Cloud Practitioner** em Nov/2025;  
-- 📄 Aprendizado documentado em [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md);  
+- 📄 Registrando meu aprendizado em [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md);  
 - ☁️ Estudando para a certificação **AWS Certified Solutions Architect - Associate**;  
 - 👩🏻‍💻 Buscando uma oportunidade de trabalho inicial em **Cloud/AWS** para aplicar e expandir meus conhecimentos. 🚀
 
