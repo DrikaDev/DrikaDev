@@ -14,7 +14,7 @@ Minha jornada na tecnologia inclui:
 - 🚀 Participação em bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**;  
 - 🛠️ 9 meses de experiência prática como desenvolvedora de frontend utilizando as tecnologias **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**; 
 - 👉🏻 [Portfólio Frontend](https://portfolio-drikadev.netlify.app/), desenvolvido durante minha transição.
-- 🎉 Certificação **AWS Cloud Practitioner**, emitida em Nov/2025   
+- 🎉 Certificação **AWS Cloud Practitioner** conquistada em Nov/2025   
 
 ## 🚀 Atualmente
 
