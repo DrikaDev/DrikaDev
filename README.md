@@ -44,7 +44,7 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
   <p>Clique nos ícones ☝🏻 para saber mais sobre cada tecnologia.</p>
 </div>
 
-## 🌐 Vamos nos conectar?  
+## 📲 Vamos nos conectar?  
 
 <div>  
   <a href="https://www.linkedin.com/in/adri-ana-gutierrez/">
@@ -57,8 +57,9 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   <a href="mailto:adri.ana.gutierrez@hotmail.com">
-    <img src="https://img.shields.io/badge/-Outlook-%23007ACC?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=minutemailer&logoColor=white" target="_blank">
   </a>
+
 </div>
 
 ---
