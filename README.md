@@ -14,13 +14,15 @@ Minha jornada na tecnologia inclui:
 - 🚀 Participação em bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**;  
 - 👉🏻 [Portfólio Frontend](https://portfolio-drikadev.netlify.app/), desenvolvido durante minha transição.
 - 🛠️ 9 meses de experiência prática como desenvolvedora de frontend utilizando as tecnologias **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**; 
-- 🎉 Certificação **AWS Cloud Practitioner** conquistada em Nov/2025   
+- 🎉 Certificação **AWS Cloud Practitioner** conquistada em Nov/2025
 
 ## 🚀 Atualmente
 
 - 📄 Registrando meu aprendizado em [Estudando AWS Cloud Practitioner](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md);  
 - ☁️ Estudando para a certificação **AWS Certified Solutions Architect - Associate**;  
 - 👩🏻‍💻 Buscando uma oportunidade de trabalho inicial em **Cloud/AWS** para aplicar e expandir meus conhecimentos. 🚀
+
+[![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Conclu%C3%ADdo-success?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/blob/main/README.md) [![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20--%20Associate-Em%20Desenvolvimento-orange?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/edit/main/README.md)
 
 ## 🔑 Habilidades
 
