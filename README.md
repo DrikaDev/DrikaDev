@@ -16,13 +16,15 @@ Minha jornada na tecnologia inclui:
 - 🛠️ 9 meses de experiência prática como desenvolvedora de frontend utilizando as tecnologias **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**; 
 - 🎉 Certificação **AWS Cloud Practitioner** conquistada em Nov/2025
 
+[![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Conclu%C3%ADdo-success?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/tree/main)
+
 ## 🚀 Atualmente
 
 - ☁️ Estudando para a certificação **AWS Certified Solutions Architect - Associate**;  
 - 📄 Registrando meu aprendizado em [Estudando AWS Solutions Architect Associate](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/README.md);  
 - 👩🏻‍💻 Buscando uma oportunidade de trabalho inicial em **Cloud AWS** para aplicar e expandir meus conhecimentos. 🚀
 
-[![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Conclu%C3%ADdo-success?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/tree/main) [![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20--%20Associate-Em%20Desenvolvimento-orange?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/tree/main)
+[![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20--%20Associate-Em%20Desenvolvimento-orange?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/tree/main)
 
 ## 🔑 Habilidades
 
@@ -46,7 +48,7 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
   <p>Clique nos ícones ☝🏻 para saber mais sobre cada tecnologia.</p>
 </div>
 
-## 📲 Vamos nos conectar?  
+## ☎️ Vamos nos conectar?  
 
 <div>  
   <a href="https://www.linkedin.com/in/adri-ana-gutierrez/">
