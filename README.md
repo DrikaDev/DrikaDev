@@ -1,54 +1,54 @@
-<img width="1584" height="396" alt="Banner de LinkedIn Cabecera Empresa Tecnologia Corporativo Moderno (4)" src="https://github.com/user-attachments/assets/531d6429-27ba-4868-ac83-e80fe46d0313" />
+## 👋🏼 Olá, eu sou Adriana Gutierrez
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FF69B4&lines=Prazer,+sou+Adriana+Gutierrez.;Bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+Profissional 40+ em transição estratégica para o ecossistema **ServiceNow**, com foco em **ITSM, automação de workflows e plataformas corporativas**.
 
-## 👧🏻 Sobre mim  
+🎯 **Proposta de valor:** unir mais de 20 anos de experiência administrativa à tecnologia, trazendo organização, visão de processos, comunicação clara e foco em eficiência operacional.
 
-Sou **Adriana Gutierrez**, profissional **40+** em transição para **tecnologia** desde Janeiro de 2022.  
+## 🚀 Direcionamento Atual
 
-🎯 **Minha proposta de valor:** unir meus **20 anos de experiência administrativa** à tecnologia, trazendo **organização, comunicação eficaz, resiliência e visão prática de negócios**.  
+🔹 Aprofundando conhecimentos em:
+- ITSM (Incident, Change e Service Request)
+- Modelagem e automação de workflows
+- Configuração e desenvolvimento na plataforma ServiceNow
+- Melhoria contínua e governança de serviços
 
-Minha jornada na tecnologia inclui:  
+🔹 Desenvolvendo projetos práticos para consolidação do aprendizado
 
-- 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** (Anhanguera);  
-- 🚀 Participação em bootcamps de **Front-End Jr (Vai Na Web)** e **Full Stack Java Jr (Generation)**;  
-- 👉🏻 [Portfólio Frontend](https://portfolio-drikadev.netlify.app/), desenvolvido durante minha transição.
-- 🛠️ 9 meses de experiência prática como desenvolvedora de frontend utilizando as tecnologias **HTML, CSS, JavaScript, React, Tailwind, Material UI e Git**; 
-- 🎉 Certificação **AWS Cloud Practitioner** conquistada em Nov/2025
+🔹 Expandindo visão técnica com base em Cloud e arquitetura de sistemas
 
-[![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Conclu%C3%ADdo-success?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Cloud-Practitioner/tree/main)
+## 🎓 Formação & Certificação
 
-## 🚀 Atualmente
+- 🎓 Graduação em **Análise e Desenvolvimento de Sistemas**
+- ☁️ Certificação **AWS Cloud Practitioner**
+- 💻 Experiência prática como Desenvolvedora Front-End (React, JavaScript, Tailwind, Git)
 
-- ☁️ Estudando para a certificação **AWS Certified Solutions Architect - Associate**;  
-- 📄 Registrando meu aprendizado em [Estudando AWS Solutions Architect Associate](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/README.md);  
-- 👩🏻‍💻 Buscando uma oportunidade de trabalho inicial em **Cloud AWS** para aplicar e expandir meus conhecimentos. 🚀
+A experiência em desenvolvimento fortalece minha compreensão sobre lógica, estrutura de sistemas e integração entre processos e tecnologia.
 
-[![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20--%20Associate-Em%20Desenvolvimento-orange?logo=amazonaws&logoColor=white)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/tree/main)
+## 🔧 Habilidades Técnicas
 
-## 🔑 Habilidades
+**Plataformas & Processos**
+- ServiceNow (ITSM)
+- Automação de Workflows
+- Gestão de Processos
+- Governança de Serviços
 
-**Cloud & Tecnologia:**  
-AWS | Cloud Computing | HTML | CSS | JavaScript | React | Tailwind | Git | Metodologias Ágeis  
+**Cloud & Desenvolvimento**
+- AWS (Cloud Foundation)
+- HTML | CSS | JavaScript | React
+- Git
+- Metodologias Ágeis
 
-**Administrativas:**  
-Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suporte Executivo | Organização | Comunicação | Resolução de Problemas | Pacote Office | Inglês Avançado | Resiliência  
+## 💼 Experiência Corporativa
 
-## 💻 Tecnologias aprendidas:  
+Mais de 20 anos atuando em ambientes corporativos estruturados, com forte experiência em:
+- Organização e controle operacional
+- Suporte a áreas estratégicas
+- Comunicação executiva
+- Gestão de demandas e processos
 
-<div>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML" height="50" width="60" title="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS" height="50" width="60" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://www.w3schools.com/js/" target="_blank"><img align="center" alt="JavaScript" height="50" width="60" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="React" height="50" width="60" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
-  <a href="https://www.w3schools.com/java/" target="_blank"><img align="center" alt="Java" height="50" width="60" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
-  <a href="https://aws.amazon.com/pt/what-is-aws/?nc1=f_cc/" target="_blank"><img align="center" alt="AWS" height="50" width="60" title="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
-  <br><br>
-  <p>Clique nos ícones ☝🏻 para saber mais sobre cada tecnologia.</p>
-</div>
+Competências altamente aderentes a contextos de ITSM e plataformas corporativas.
 
-## ☎️ Vamos nos conectar?  
+## 🫱🏻‍🫲🏼 Vamos nos conectar?
 
 <div>  
   <a href="https://www.linkedin.com/in/adri-ana-gutierrez/">
@@ -71,8 +71,11 @@ Atendimento ao Cliente | Gestão de Processos | Logística e Facilities | Suport
 ---
 
 <p align="center">
-  💡Aberta a oportunidades em <strong>Cloud/AWS</strong> e entusiasmada para aplicar meus conhecimentos em projetos reais!
+  💡 Aberta a oportunidades como <strong>ServiceNow Junior / ITSM Analyst</strong>strong>, contribuindo com organização, eficiência e evolução contínua dentro do ecossistema ServiceNow.
 </p>
+
+---
+
 <p align="center">
   Desenvolvido com 🩷
 </p>
