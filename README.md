@@ -1,3 +1,5 @@
+<img width="1278" height="404" alt="Captura de tela 2026-02-13 214113" src="https://github.com/user-attachments/assets/461639b8-a1b4-4fd7-b299-33028124e6e0" />
+
 ## 👋🏼 Olá, eu sou Adriana Gutierrez
 
 Profissional 40+ em transição estratégica para o ecossistema **ServiceNow**, com foco em **ITSM, automação de workflows e plataformas corporativas**.
