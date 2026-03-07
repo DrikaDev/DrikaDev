@@ -63,7 +63,7 @@ Competências altamente aderentes a contextos de ITSM e plataformas corporativas
 ---
 
 <p align="center">
-  💡 Aberta a oportunidades como <strong>ServiceNow Junior / ITSM Analyst</strong>strong>, contribuindo com organização, eficiência e evolução contínua dentro do ecossistema ServiceNow.
+  💡 Aberta a oportunidades como <strong>ServiceNow Junior / ITSM Analyst</strong>, contribuindo com organização, eficiência e evolução contínua dentro do ecossistema ServiceNow.
 </p>
 
 ---
