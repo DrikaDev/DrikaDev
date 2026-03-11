@@ -14,9 +14,11 @@ Profissional 40+ em transição estratégica para o ecossistema **ServiceNow**, 
 - Configuração e desenvolvimento na plataforma ServiceNow
 - Melhoria contínua e governança de serviços
 
-🔹 Desenvolvendo projetos práticos para consolidação do aprendizado
+🔹 Desenvolvendo projetos práticos para consolidação do aprendizado como:
+- [Social Media Management](https://github.com/DrikaDev/ServiceNow-Social-Media-Management)
+- [Toy Store](https://github.com/DrikaDev/ServiceNow-Toy-Store)
 
-🔹 Expandindo visão técnica com base em Cloud e arquitetura de sistemas
+🔹 Me preparando para o exame da CSA (Certified Implementation Specialist)
 
 ## 🎓 Formação & Certificação
 
