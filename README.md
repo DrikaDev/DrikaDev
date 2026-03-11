@@ -1,4 +1,4 @@
-<img width="1278" height="404" alt="Captura de tela 2026-02-13 214113" src="https://github.com/user-attachments/assets/461639b8-a1b4-4fd7-b299-33028124e6e0" />
+<img width="2048" height="512" alt="Gemini_Generated_Image_phqffkphqffkphqf" src="https://github.com/user-attachments/assets/a21dcd79-c599-4666-ae7a-5eced1a5101d" />
 
 ## 👋🏼 Olá, eu sou Adriana Gutierrez
 
