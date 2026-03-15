@@ -56,7 +56,7 @@ Competências altamente aderentes a contextos de ITSM e plataformas corporativas
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adri-ana-gutierrez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.credly.com/users/adriana-gutierrez.8cddb63a/badges#credly" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white"></a>
+  <a href="https://www.credly.com/users/adri-ana-gutierrez/badges#credly" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white"></a>
   <a href="https://wa.me/5511947126618" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:adri.ana.gutierrez@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
   <a href="https://www.youtube.com/@drikadev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
