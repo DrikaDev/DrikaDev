@@ -18,7 +18,8 @@ Profissional 40+ em transição estratégica para o ecossistema **ServiceNow**, 
 - [Social Media Management](https://github.com/DrikaDev/ServiceNow-Social-Media-Management)
 - [Toy Store](https://github.com/DrikaDev/ServiceNow-Toy-Store)
 
-🔹 Me preparando para o exame da CSA (Certified Implementation Specialist)
+🔹 Conquistei a CSA (Certified Implementation Specialist) em Maio/2026
+🔹 Agora estou me preparando para o exame da CAD! 🚀🚀🚀
 
 ## 🎓 Formação & Certificação
 
